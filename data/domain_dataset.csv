@@ -1,0 +1,9 @@
+doc_id,context,question,answer
+finance_report.txt,Company Alpha released its Q2 2023 financial report showing total revenue of $4.8 billion.,What was the total revenue of Company Alpha in Q2 2023?,$4.8 billion
+finance_report.txt,The CEO announced plans to expand into the electric vehicle market by 2024.,Which market does the company plan to enter by 2024?,electric vehicle market
+medical_research.txt,Results indicated that Drug A reduced systolic blood pressure by an average of 15 mmHg.,By how much did Drug A reduce systolic blood pressure?,15 mmHg
+medical_research.txt,No severe side effects were reported.,Were there any severe side effects reported in the study?,No
+legal_case.txt,"The court ruled in favor of the defendant, stating that the termination was justified.",Who won the Johnson vs. TechCorp case?,defendant
+legal_case.txt,The judgment set a precedent for similar disputes in the tech industry.,What industry was impacted by the judgment?,tech industry
+company_policy.txt,All employees are required to submit weekly progress reports by Friday 5 PM.,By when must employees submit weekly reports?,Friday 5 PM
+company_policy.txt,Remote workers must attend at least one virtual meeting per week.,How often must remote workers attend meetings?,at least once per week
