@@ -1,0 +1,2 @@
+# AI-Powered-Knowledge-Assistant-for-Domain-Specific-Documents
+This project implements an AI-powered knowledge assistant that answers domain-specific questions using Hugging Face transformers, Retrieval-Augmented Generation (RAG), and fine-tuning techniques. Users can upload PDFs or text documents (e.g. finance), and the system retrieves relevant information to provide precise answers with supporting context.
