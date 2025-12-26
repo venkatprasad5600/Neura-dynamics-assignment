@@ -77,7 +77,7 @@ LLM Response (Grounded Answer)
 **Question**  
 What is the refund policy for cancelled orders?
 
-**Retrieved Context **  
+**Retrieved Context**  
 Customers are eligible for a full refund if the order is cancelled within 7 days of purchase and the item has not been shipped.
 
 **Model Answer**
